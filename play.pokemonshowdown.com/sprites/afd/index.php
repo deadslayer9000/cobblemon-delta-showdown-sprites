@@ -8104,4 +8104,29 @@
 	<img loading="lazy" src="zygarde.png" alt="zygarde.png" title="zygarde.png" />
 	<figcaption><a href="zygarde.png">zygarde</a></figcaption>
 </figure>
+//delta 
+<figure id="gholdengo-delta.png">
+	<img loading="lazy" src="gholdengo-delta.png" alt="gholdengo-delta.png" title="gholdengo-delta.png" />
+	<figcaption><a href="gholdengo-delta.png">zygarde</a></figcaption>
+</figure>
+<figure id="arcanine-delta.png">
+	<img loading="lazy" src="arcanine-delta.png" alt="arcanine-delta.png" title="arcanine-delta.png" />
+	<figcaption><a href="arcanine-delta.png">zygarde</a></figcaption>
+</figure>
+<figure id="latios-delta.png">
+	<img loading="lazy" src="latios-delta.png" alt="latios-delta.png" title="latios-delta.png" />
+	<figcaption><a href="latios-delta.png">zygarde</a></figcaption>
+</figure>
+<figure id="ironworld.png">
+	<img loading="lazy" src="ironworld.png" alt="ironworld.png" title="ironworld.png" />
+	<figcaption><a href="ironworld.png">zygarde</a></figcaption>
+</figure>
+<figure id="shaykarp.png">
+	<img loading="lazy" src="shaykarp.png" alt="shaykarp.png" title="shaykarp.png" />
+	<figcaption><a href="shaykarp.png">zygarde</a></figcaption>
+</figure>
+<figure id="sableye-delta.png">
+	<img loading="lazy" src="sableye-delta.png" alt="sableye-delta.png" title="sableye-delta.png" />
+	<figcaption><a href="sableye-delta.png">zygarde</a></figcaption>
+</figure>
 </html>
