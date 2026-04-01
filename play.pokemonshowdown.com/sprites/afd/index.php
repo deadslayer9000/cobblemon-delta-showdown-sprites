@@ -8129,4 +8129,40 @@
 	<img loading="lazy" src="sableye-delta.png" alt="sableye-delta.png" title="sableye-delta.png" />
 	<figcaption><a href="sableye-delta.png">sableye-delta</a></figcaption>
 </figure>
+<figure id="cloyster-delta.png">
+	<img loading="lazy" src="cloyster-delta.png" alt="cloyster-delta.png" title="cloyster-delta.png" />
+	<figcaption><a href="cloyster-delta.png">cloyster-delta</a></figcaption>
+</figure>
+<figure id="flygon-ultra.png">
+	<img loading="lazy" src="flygon-ultra.png" alt="flygon-ultra.png" title="flygon-ultra.png" />
+	<figcaption><a href="flygon-ultra.png">flygon-ultra</a></figcaption>
+</figure> 	
+<figure id="gogoat-delta.png">
+	<img loading="lazy" src="gogoat-delta.png" alt="gogoat-delta.png" title="gogoat-delta.png" />
+	<figcaption><a href="gogoat-delta.png">gogoat-delta</a></figcaption>
+</figure>
+<figure id="klocktowl-mega.png">
+	<img loading="lazy" src="klocktowl-mega.png" alt="klocktowl-mega.png" title="klocktowl-mega.png" />
+	<figcaption><a href="klocktowl-mega.png">klocktowl-mega</a></figcaption>
+</figure>
+<figure id="latias-delta.png">
+	<img loading="lazy" src="latias-delta.png" alt="latias-delta.png" title="latias-delta.png" />
+	<figcaption><a href="latias-delta.png">latias-delta</a></figcaption>
+</figure>
+<figure id="lopunny-delta.png">
+	<img loading="lazy" src="lopunny-delta.png" alt="lopunny-delta.png" title="lopunny-delta.png" />
+	<figcaption><a href="lopunny-delta.png">lopunny-delta</a></figcaption>
+</figure>
+<figure id="radiantmoon.png">
+	<img loading="lazy" src="radiantmoon.png" alt="radiantmoon.png" title="radiantmoon.png" />
+	<figcaption><a href="radiantmoon.png">radiantmoon</a></figcaption>
+</figure>
+<figure id="regisurge.png">
+	<img loading="lazy" src="regisurge.png" alt="regisurge.png" title="regisurge.png" />
+	<figcaption><a href="regisurge.png">regisurge</a></figcaption>
+</figure>
+<figure id="serperior-ultra.png">
+	<img loading="lazy" src="serperior-ultra.png" alt="serperior-ultra.png" title="serperior-ultra.png" />
+	<figcaption><a href="serperior-ultra.png">serperior-ultra</a></figcaption>
+</figure>
 </html>
