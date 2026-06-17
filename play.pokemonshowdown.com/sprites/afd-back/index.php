@@ -509,7 +509,7 @@
 			</a>
 		</p>
 	<h1 style="font-size: 12pt;">April Fool's back sprites</h1>
-	<p>These are the back sprites. You can also <a href="../afd">view the front sprites</a>.</p>
+	<p>These are the back sprites. You can also <a href="../afd.1">view the front sprites</a>.</p>
 	<div>
 		View:
 		<ul class="nav" style="display:inline-block;vertical-align:middle;margin:0 10px 0 0">
@@ -523,14 +523,6 @@
 		</ul>
 	</div>
 </main>
-<figure id="Salazzle-old.png">
-	<img loading="lazy" src="Salazzle-old.png" alt="Salazzle-old.png" title="Salazzle-old.png" />
-	<figcaption><a href="Salazzle-old.png">Salazzle-old</a></figcaption>
-</figure>
-<figure id="Salazzle.png">
-	<img loading="lazy" src="Salazzle.png" alt="Salazzle.png" title="Salazzle.png" />
-	<figcaption><a href="Salazzle.png">Salazzle</a></figcaption>
-</figure>
 <figure id="ababo.png">
 	<img loading="lazy" src="ababo.png" alt="ababo.png" title="ababo.png" />
 	<figcaption><a href="ababo.png">ababo</a></figcaption>
@@ -562,6 +554,10 @@
 <figure id="absol-mega.png">
 	<img loading="lazy" src="absol-mega.png" alt="absol-mega.png" title="absol-mega.png" />
 	<figcaption><a href="absol-mega.png">absol-mega</a></figcaption>
+</figure>
+<figure id="absol-megaz.png">
+	<img loading="lazy" src="absol-megaz.png" alt="absol-megaz.png" title="absol-megaz.png" />
+	<figcaption><a href="absol-megaz.png">absol-megaz</a></figcaption>
 </figure>
 <figure id="absol.png">
 	<img loading="lazy" src="absol.png" alt="absol.png" title="absol.png" />
@@ -1043,6 +1039,10 @@
 	<img loading="lazy" src="banette.png" alt="banette.png" title="banette.png" />
 	<figcaption><a href="banette.png">banette</a></figcaption>
 </figure>
+<figure id="barbaracle-mega.png">
+	<img loading="lazy" src="barbaracle-mega.png" alt="barbaracle-mega.png" title="barbaracle-mega.png" />
+	<figcaption><a href="barbaracle-mega.png">barbaracle-mega</a></figcaption>
+</figure>
 <figure id="barbaracle.png">
 	<img loading="lazy" src="barbaracle.png" alt="barbaracle.png" title="barbaracle.png" />
 	<figcaption><a href="barbaracle.png">barbaracle</a></figcaption>
@@ -1082,6 +1082,10 @@
 <figure id="bastiodon.png">
 	<img loading="lazy" src="bastiodon.png" alt="bastiodon.png" title="bastiodon.png" />
 	<figcaption><a href="bastiodon.png">bastiodon</a></figcaption>
+</figure>
+<figure id="baxcalibur-mega.png">
+	<img loading="lazy" src="baxcalibur-mega.png" alt="baxcalibur-mega.png" title="baxcalibur-mega.png" />
+	<figcaption><a href="baxcalibur-mega.png">baxcalibur-mega</a></figcaption>
 </figure>
 <figure id="baxcalibur.png">
 	<img loading="lazy" src="baxcalibur.png" alt="baxcalibur.png" title="baxcalibur.png" />
@@ -1146,6 +1150,10 @@
 <figure id="bergmite.png">
 	<img loading="lazy" src="bergmite.png" alt="bergmite.png" title="bergmite.png" />
 	<figcaption><a href="bergmite.png">bergmite</a></figcaption>
+</figure>
+<figure id="bewear-old.png">
+	<img loading="lazy" src="bewear-old.png" alt="bewear-old.png" title="bewear-old.png" />
+	<figcaption><a href="bewear-old.png">bewear-old</a></figcaption>
 </figure>
 <figure id="bewear.png">
 	<img loading="lazy" src="bewear.png" alt="bewear.png" title="bewear.png" />
@@ -1527,6 +1535,10 @@
 	<img loading="lazy" src="cetoddle.png" alt="cetoddle.png" title="cetoddle.png" />
 	<figcaption><a href="cetoddle.png">cetoddle</a></figcaption>
 </figure>
+<figure id="chandelure-mega.png">
+	<img loading="lazy" src="chandelure-mega.png" alt="chandelure-mega.png" title="chandelure-mega.png" />
+	<figcaption><a href="chandelure-mega.png">chandelure-mega</a></figcaption>
+</figure>
 <figure id="chandelure-old.png">
 	<img loading="lazy" src="chandelure-old.png" alt="chandelure-old.png" title="chandelure-old.png" />
 	<figcaption><a href="chandelure-old.png">chandelure-old</a></figcaption>
@@ -1603,6 +1615,10 @@
 	<img loading="lazy" src="cherubi.png" alt="cherubi.png" title="cherubi.png" />
 	<figcaption><a href="cherubi.png">cherubi</a></figcaption>
 </figure>
+<figure id="chesnaught-mega.png">
+	<img loading="lazy" src="chesnaught-mega.png" alt="chesnaught-mega.png" title="chesnaught-mega.png" />
+	<figcaption><a href="chesnaught-mega.png">chesnaught-mega</a></figcaption>
+</figure>
 <figure id="chesnaught.png">
 	<img loading="lazy" src="chesnaught.png" alt="chesnaught.png" title="chesnaught.png" />
 	<figcaption><a href="chesnaught.png">chesnaught</a></figcaption>
@@ -1626,6 +1642,14 @@
 <figure id="chimchar.png">
 	<img loading="lazy" src="chimchar.png" alt="chimchar.png" title="chimchar.png" />
 	<figcaption><a href="chimchar.png">chimchar</a></figcaption>
+</figure>
+<figure id="chimecho-mega.png">
+	<img loading="lazy" src="chimecho-mega.png" alt="chimecho-mega.png" title="chimecho-mega.png" />
+	<figcaption><a href="chimecho-mega.png">chimecho-mega</a></figcaption>
+</figure>
+<figure id="chimecho-old.png">
+	<img loading="lazy" src="chimecho-old.png" alt="chimecho-old.png" title="chimecho-old.png" />
+	<figcaption><a href="chimecho-old.png">chimecho-old</a></figcaption>
 </figure>
 <figure id="chimecho.png">
 	<img loading="lazy" src="chimecho.png" alt="chimecho.png" title="chimecho.png" />
@@ -1694,6 +1718,10 @@
 <figure id="claydol.png">
 	<img loading="lazy" src="claydol.png" alt="claydol.png" title="claydol.png" />
 	<figcaption><a href="claydol.png">claydol</a></figcaption>
+</figure>
+<figure id="clefable-mega.png">
+	<img loading="lazy" src="clefable-mega.png" alt="clefable-mega.png" title="clefable-mega.png" />
+	<figcaption><a href="clefable-mega.png">clefable-mega</a></figcaption>
 </figure>
 <figure id="clefable.png">
 	<img loading="lazy" src="clefable.png" alt="clefable.png" title="clefable.png" />
@@ -1830,6 +1858,10 @@
 <figure id="cottonee.png">
 	<img loading="lazy" src="cottonee.png" alt="cottonee.png" title="cottonee.png" />
 	<figcaption><a href="cottonee.png">cottonee</a></figcaption>
+</figure>
+<figure id="crabominable-mega.png">
+	<img loading="lazy" src="crabominable-mega.png" alt="crabominable-mega.png" title="crabominable-mega.png" />
+	<figcaption><a href="crabominable-mega.png">crabominable-mega</a></figcaption>
 </figure>
 <figure id="crabominable.png">
 	<img loading="lazy" src="crabominable.png" alt="crabominable.png" title="crabominable.png" />
@@ -1975,6 +2007,10 @@
 	<img loading="lazy" src="dachsbun.png" alt="dachsbun.png" title="dachsbun.png" />
 	<figcaption><a href="dachsbun.png">dachsbun</a></figcaption>
 </figure>
+<figure id="darkrai-mega.png">
+	<img loading="lazy" src="darkrai-mega.png" alt="darkrai-mega.png" title="darkrai-mega.png" />
+	<figcaption><a href="darkrai-mega.png">darkrai-mega</a></figcaption>
+</figure>
 <figure id="darkrai-old.png">
 	<img loading="lazy" src="darkrai-old.png" alt="darkrai-old.png" title="darkrai-old.png" />
 	<figcaption><a href="darkrai-old.png">darkrai-old</a></figcaption>
@@ -2042,6 +2078,10 @@
 <figure id="delibird.png">
 	<img loading="lazy" src="delibird.png" alt="delibird.png" title="delibird.png" />
 	<figcaption><a href="delibird.png">delibird</a></figcaption>
+</figure>
+<figure id="delphox-mega.png">
+	<img loading="lazy" src="delphox-mega.png" alt="delphox-mega.png" title="delphox-mega.png" />
+	<figcaption><a href="delphox-mega.png">delphox-mega</a></figcaption>
 </figure>
 <figure id="delphox.png">
 	<img loading="lazy" src="delphox.png" alt="delphox.png" title="delphox.png" />
@@ -2199,6 +2239,10 @@
 	<img loading="lazy" src="dracozolt.png" alt="dracozolt.png" title="dracozolt.png" />
 	<figcaption><a href="dracozolt.png">dracozolt</a></figcaption>
 </figure>
+<figure id="dragalge-mega.png">
+	<img loading="lazy" src="dragalge-mega.png" alt="dragalge-mega.png" title="dragalge-mega.png" />
+	<figcaption><a href="dragalge-mega.png">dragalge-mega</a></figcaption>
+</figure>
 <figure id="dragalge.png">
 	<img loading="lazy" src="dragalge.png" alt="dragalge.png" title="dragalge.png" />
 	<figcaption><a href="dragalge.png">dragalge</a></figcaption>
@@ -2215,6 +2259,10 @@
 	<img loading="lazy" src="dragonair.png" alt="dragonair.png" title="dragonair.png" />
 	<figcaption><a href="dragonair.png">dragonair</a></figcaption>
 </figure>
+<figure id="dragonite-mega.png">
+	<img loading="lazy" src="dragonite-mega.png" alt="dragonite-mega.png" title="dragonite-mega.png" />
+	<figcaption><a href="dragonite-mega.png">dragonite-mega</a></figcaption>
+</figure>
 <figure id="dragonite.png">
 	<img loading="lazy" src="dragonite.png" alt="dragonite.png" title="dragonite.png" />
 	<figcaption><a href="dragonite.png">dragonite</a></figcaption>
@@ -2222,6 +2270,10 @@
 <figure id="drakloak.png">
 	<img loading="lazy" src="drakloak.png" alt="drakloak.png" title="drakloak.png" />
 	<figcaption><a href="drakloak.png">drakloak</a></figcaption>
+</figure>
+<figure id="drampa-mega.png">
+	<img loading="lazy" src="drampa-mega.png" alt="drampa-mega.png" title="drampa-mega.png" />
+	<figcaption><a href="drampa-mega.png">drampa-mega</a></figcaption>
 </figure>
 <figure id="drampa.png">
 	<img loading="lazy" src="drampa.png" alt="drampa.png" title="drampa.png" />
@@ -2343,6 +2395,10 @@
 	<img loading="lazy" src="durant-old2.png" alt="durant-old2.png" title="durant-old2.png" />
 	<figcaption><a href="durant-old2.png">durant-old2</a></figcaption>
 </figure>
+<figure id="durant-old3.png">
+	<img loading="lazy" src="durant-old3.png" alt="durant-old3.png" title="durant-old3.png" />
+	<figcaption><a href="durant-old3.png">durant-old3</a></figcaption>
+</figure>
 <figure id="durant.png">
 	<img loading="lazy" src="durant.png" alt="durant.png" title="durant.png" />
 	<figcaption><a href="durant.png">durant</a></figcaption>
@@ -2382,6 +2438,10 @@
 <figure id="eelektrik.png">
 	<img loading="lazy" src="eelektrik.png" alt="eelektrik.png" title="eelektrik.png" />
 	<figcaption><a href="eelektrik.png">eelektrik</a></figcaption>
+</figure>
+<figure id="eelektross-mega.png">
+	<img loading="lazy" src="eelektross-mega.png" alt="eelektross-mega.png" title="eelektross-mega.png" />
+	<figcaption><a href="eelektross-mega.png">eelektross-mega</a></figcaption>
 </figure>
 <figure id="eelektross-old.png">
 	<img loading="lazy" src="eelektross-old.png" alt="eelektross-old.png" title="eelektross-old.png" />
@@ -2475,6 +2535,14 @@
 	<img loading="lazy" src="embirch.png" alt="embirch.png" title="embirch.png" />
 	<figcaption><a href="embirch.png">embirch</a></figcaption>
 </figure>
+<figure id="emboar-mega.png">
+	<img loading="lazy" src="emboar-mega.png" alt="emboar-mega.png" title="emboar-mega.png" />
+	<figcaption><a href="emboar-mega.png">emboar-mega</a></figcaption>
+</figure>
+<figure id="emboar-old.png">
+	<img loading="lazy" src="emboar-old.png" alt="emboar-old.png" title="emboar-old.png" />
+	<figcaption><a href="emboar-old.png">emboar-old</a></figcaption>
+</figure>
 <figure id="emboar.png">
 	<img loading="lazy" src="emboar.png" alt="emboar.png" title="emboar.png" />
 	<figcaption><a href="emboar.png">emboar</a></figcaption>
@@ -2535,6 +2603,10 @@
 	<img loading="lazy" src="eternatus.png" alt="eternatus.png" title="eternatus.png" />
 	<figcaption><a href="eternatus.png">eternatus</a></figcaption>
 </figure>
+<figure id="excadrill-mega.png">
+	<img loading="lazy" src="excadrill-mega.png" alt="excadrill-mega.png" title="excadrill-mega.png" />
+	<figcaption><a href="excadrill-mega.png">excadrill-mega</a></figcaption>
+</figure>
 <figure id="excadrill.png">
 	<img loading="lazy" src="excadrill.png" alt="excadrill.png" title="excadrill.png" />
 	<figcaption><a href="excadrill.png">excadrill</a></figcaption>
@@ -2558,6 +2630,10 @@
 <figure id="exploud.png">
 	<img loading="lazy" src="exploud.png" alt="exploud.png" title="exploud.png" />
 	<figcaption><a href="exploud.png">exploud</a></figcaption>
+</figure>
+<figure id="falinks-mega.png">
+	<img loading="lazy" src="falinks-mega.png" alt="falinks-mega.png" title="falinks-mega.png" />
+	<figcaption><a href="falinks-mega.png">falinks-mega</a></figcaption>
 </figure>
 <figure id="falinks.png">
 	<img loading="lazy" src="falinks.png" alt="falinks.png" title="falinks.png" />
@@ -2594,6 +2670,10 @@
 <figure id="fennekin.png">
 	<img loading="lazy" src="fennekin.png" alt="fennekin.png" title="fennekin.png" />
 	<figcaption><a href="fennekin.png">fennekin</a></figcaption>
+</figure>
+<figure id="feraligatr-mega.png">
+	<img loading="lazy" src="feraligatr-mega.png" alt="feraligatr-mega.png" title="feraligatr-mega.png" />
+	<figcaption><a href="feraligatr-mega.png">feraligatr-mega</a></figcaption>
 </figure>
 <figure id="feraligatr.png">
 	<img loading="lazy" src="feraligatr.png" alt="feraligatr.png" title="feraligatr.png" />
@@ -2715,6 +2795,10 @@
 	<img loading="lazy" src="floette-eternal.png" alt="floette-eternal.png" title="floette-eternal.png" />
 	<figcaption><a href="floette-eternal.png">floette-eternal</a></figcaption>
 </figure>
+<figure id="floette-mega.png">
+	<img loading="lazy" src="floette-mega.png" alt="floette-mega.png" title="floette-mega.png" />
+	<figcaption><a href="floette-mega.png">floette-mega</a></figcaption>
+</figure>
 <figure id="floette-orange.png">
 	<img loading="lazy" src="floette-orange.png" alt="floette-orange.png" title="floette-orange.png" />
 	<figcaption><a href="floette-orange.png">floette-orange</a></figcaption>
@@ -2754,6 +2838,10 @@
 <figure id="florges.png">
 	<img loading="lazy" src="florges.png" alt="florges.png" title="florges.png" />
 	<figcaption><a href="florges.png">florges</a></figcaption>
+</figure>
+<figure id="flox.png">
+	<img loading="lazy" src="flox.png" alt="flox.png" title="flox.png" />
+	<figcaption><a href="flox.png">flox</a></figcaption>
 </figure>
 <figure id="fluttermane.png">
 	<img loading="lazy" src="fluttermane.png" alt="fluttermane.png" title="fluttermane.png" />
@@ -2806,6 +2894,10 @@
 <figure id="frogadier.png">
 	<img loading="lazy" src="frogadier.png" alt="frogadier.png" title="frogadier.png" />
 	<figcaption><a href="frogadier.png">frogadier</a></figcaption>
+</figure>
+<figure id="froslass-mega.png">
+	<img loading="lazy" src="froslass-mega.png" alt="froslass-mega.png" title="froslass-mega.png" />
+	<figcaption><a href="froslass-mega.png">froslass-mega</a></figcaption>
 </figure>
 <figure id="froslass.png">
 	<img loading="lazy" src="froslass.png" alt="froslass.png" title="froslass.png" />
@@ -2910,6 +3002,10 @@
 <figure id="garchomp-mega.png">
 	<img loading="lazy" src="garchomp-mega.png" alt="garchomp-mega.png" title="garchomp-mega.png" />
 	<figcaption><a href="garchomp-mega.png">garchomp-mega</a></figcaption>
+</figure>
+<figure id="garchomp-megaz.png">
+	<img loading="lazy" src="garchomp-megaz.png" alt="garchomp-megaz.png" title="garchomp-megaz.png" />
+	<figcaption><a href="garchomp-megaz.png">garchomp-megaz</a></figcaption>
 </figure>
 <figure id="garchomp-old.png">
 	<img loading="lazy" src="garchomp-old.png" alt="garchomp-old.png" title="garchomp-old.png" />
@@ -3079,6 +3175,10 @@
 	<img loading="lazy" src="glimmet.png" alt="glimmet.png" title="glimmet.png" />
 	<figcaption><a href="glimmet.png">glimmet</a></figcaption>
 </figure>
+<figure id="glimmora-mega.png">
+	<img loading="lazy" src="glimmora-mega.png" alt="glimmora-mega.png" title="glimmora-mega.png" />
+	<figcaption><a href="glimmora-mega.png">glimmora-mega</a></figcaption>
+</figure>
 <figure id="glimmora.png">
 	<img loading="lazy" src="glimmora.png" alt="glimmora.png" title="glimmora.png" />
 	<figcaption><a href="glimmora.png">glimmora</a></figcaption>
@@ -3094,6 +3194,10 @@
 <figure id="gloom.png">
 	<img loading="lazy" src="gloom.png" alt="gloom.png" title="gloom.png" />
 	<figcaption><a href="gloom.png">gloom</a></figcaption>
+</figure>
+<figure id="gogoat-old.png">
+	<img loading="lazy" src="gogoat-old.png" alt="gogoat-old.png" title="gogoat-old.png" />
+	<figcaption><a href="gogoat-old.png">gogoat-old</a></figcaption>
 </figure>
 <figure id="gogoat.png">
 	<img loading="lazy" src="gogoat.png" alt="gogoat.png" title="gogoat.png" />
@@ -3135,9 +3239,17 @@
 	<img loading="lazy" src="golett.png" alt="golett.png" title="golett.png" />
 	<figcaption><a href="golett.png">golett</a></figcaption>
 </figure>
+<figure id="golisopod-mega.png">
+	<img loading="lazy" src="golisopod-mega.png" alt="golisopod-mega.png" title="golisopod-mega.png" />
+	<figcaption><a href="golisopod-mega.png">golisopod-mega</a></figcaption>
+</figure>
 <figure id="golisopod.png">
 	<img loading="lazy" src="golisopod.png" alt="golisopod.png" title="golisopod.png" />
 	<figcaption><a href="golisopod.png">golisopod</a></figcaption>
+</figure>
+<figure id="golurk-mega.png">
+	<img loading="lazy" src="golurk-mega.png" alt="golurk-mega.png" title="golurk-mega.png" />
+	<figcaption><a href="golurk-mega.png">golurk-mega</a></figcaption>
 </figure>
 <figure id="golurk.png">
 	<img loading="lazy" src="golurk.png" alt="golurk.png" title="golurk.png" />
@@ -3179,13 +3291,29 @@
 	<img loading="lazy" src="gougingfire.png" alt="gougingfire.png" title="gougingfire.png" />
 	<figcaption><a href="gougingfire.png">gougingfire</a></figcaption>
 </figure>
+<figure id="gourgeist-large-old.png">
+	<img loading="lazy" src="gourgeist-large-old.png" alt="gourgeist-large-old.png" title="gourgeist-large-old.png" />
+	<figcaption><a href="gourgeist-large-old.png">gourgeist-large-old</a></figcaption>
+</figure>
 <figure id="gourgeist-large.png">
 	<img loading="lazy" src="gourgeist-large.png" alt="gourgeist-large.png" title="gourgeist-large.png" />
 	<figcaption><a href="gourgeist-large.png">gourgeist-large</a></figcaption>
 </figure>
+<figure id="gourgeist-old.png">
+	<img loading="lazy" src="gourgeist-old.png" alt="gourgeist-old.png" title="gourgeist-old.png" />
+	<figcaption><a href="gourgeist-old.png">gourgeist-old</a></figcaption>
+</figure>
+<figure id="gourgeist-small-old.png">
+	<img loading="lazy" src="gourgeist-small-old.png" alt="gourgeist-small-old.png" title="gourgeist-small-old.png" />
+	<figcaption><a href="gourgeist-small-old.png">gourgeist-small-old</a></figcaption>
+</figure>
 <figure id="gourgeist-small.png">
 	<img loading="lazy" src="gourgeist-small.png" alt="gourgeist-small.png" title="gourgeist-small.png" />
 	<figcaption><a href="gourgeist-small.png">gourgeist-small</a></figcaption>
+</figure>
+<figure id="gourgeist-super-old.png">
+	<img loading="lazy" src="gourgeist-super-old.png" alt="gourgeist-super-old.png" title="gourgeist-super-old.png" />
+	<figcaption><a href="gourgeist-super-old.png">gourgeist-super-old</a></figcaption>
 </figure>
 <figure id="gourgeist-super.png">
 	<img loading="lazy" src="gourgeist-super.png" alt="gourgeist-super.png" title="gourgeist-super.png" />
@@ -3234,6 +3362,10 @@
 <figure id="greninja-ash.png">
 	<img loading="lazy" src="greninja-ash.png" alt="greninja-ash.png" title="greninja-ash.png" />
 	<figcaption><a href="greninja-ash.png">greninja-ash</a></figcaption>
+</figure>
+<figure id="greninja-mega.png">
+	<img loading="lazy" src="greninja-mega.png" alt="greninja-mega.png" title="greninja-mega.png" />
+	<figcaption><a href="greninja-mega.png">greninja-mega</a></figcaption>
 </figure>
 <figure id="greninja-old.png">
 	<img loading="lazy" src="greninja-old.png" alt="greninja-old.png" title="greninja-old.png" />
@@ -3371,6 +3503,10 @@
 	<img loading="lazy" src="haunter.png" alt="haunter.png" title="haunter.png" />
 	<figcaption><a href="haunter.png">haunter</a></figcaption>
 </figure>
+<figure id="hawlucha-mega.png">
+	<img loading="lazy" src="hawlucha-mega.png" alt="hawlucha-mega.png" title="hawlucha-mega.png" />
+	<figcaption><a href="hawlucha-mega.png">hawlucha-mega</a></figcaption>
+</figure>
 <figure id="hawlucha.png">
 	<img loading="lazy" src="hawlucha.png" alt="hawlucha.png" title="hawlucha.png" />
 	<figcaption><a href="hawlucha.png">hawlucha</a></figcaption>
@@ -3382,6 +3518,10 @@
 <figure id="heatmor.png">
 	<img loading="lazy" src="heatmor.png" alt="heatmor.png" title="heatmor.png" />
 	<figcaption><a href="heatmor.png">heatmor</a></figcaption>
+</figure>
+<figure id="heatran-mega.png">
+	<img loading="lazy" src="heatran-mega.png" alt="heatran-mega.png" title="heatran-mega.png" />
+	<figcaption><a href="heatran-mega.png">heatran-mega</a></figcaption>
 </figure>
 <figure id="heatran-old.png">
 	<img loading="lazy" src="heatran-old.png" alt="heatran-old.png" title="heatran-old.png" />
@@ -3502,6 +3642,10 @@
 <figure id="houndoom-f.png">
 	<img loading="lazy" src="houndoom-f.png" alt="houndoom-f.png" title="houndoom-f.png" />
 	<figcaption><a href="houndoom-f.png">houndoom-f</a></figcaption>
+</figure>
+<figure id="houndoom-mega-old.png">
+	<img loading="lazy" src="houndoom-mega-old.png" alt="houndoom-mega-old.png" title="houndoom-mega-old.png" />
+	<figcaption><a href="houndoom-mega-old.png">houndoom-mega-old</a></figcaption>
 </figure>
 <figure id="houndoom-mega.png">
 	<img loading="lazy" src="houndoom-mega.png" alt="houndoom-mega.png" title="houndoom-mega.png" />
@@ -3706,6 +3850,10 @@
 <figure id="kadabra.png">
 	<img loading="lazy" src="kadabra.png" alt="kadabra.png" title="kadabra.png" />
 	<figcaption><a href="kadabra.png">kadabra</a></figcaption>
+</figure>
+<figure id="kakuna-old.png">
+	<img loading="lazy" src="kakuna-old.png" alt="kakuna-old.png" title="kakuna-old.png" />
+	<figcaption><a href="kakuna-old.png">kakuna-old</a></figcaption>
 </figure>
 <figure id="kakuna.png">
 	<img loading="lazy" src="kakuna.png" alt="kakuna.png" title="kakuna.png" />
@@ -4111,6 +4259,10 @@
 	<img loading="lazy" src="lucario-mega.png" alt="lucario-mega.png" title="lucario-mega.png" />
 	<figcaption><a href="lucario-mega.png">lucario-mega</a></figcaption>
 </figure>
+<figure id="lucario-megaz.png">
+	<img loading="lazy" src="lucario-megaz.png" alt="lucario-megaz.png" title="lucario-megaz.png" />
+	<figcaption><a href="lucario-megaz.png">lucario-megaz</a></figcaption>
+</figure>
 <figure id="lucario.png">
 	<img loading="lazy" src="lucario.png" alt="lucario.png" title="lucario.png" />
 	<figcaption><a href="lucario.png">lucario</a></figcaption>
@@ -4227,9 +4379,17 @@
 	<img loading="lazy" src="magcargo.png" alt="magcargo.png" title="magcargo.png" />
 	<figcaption><a href="magcargo.png">magcargo</a></figcaption>
 </figure>
+<figure id="magearna-mega.png">
+	<img loading="lazy" src="magearna-mega.png" alt="magearna-mega.png" title="magearna-mega.png" />
+	<figcaption><a href="magearna-mega.png">magearna-mega</a></figcaption>
+</figure>
 <figure id="magearna-original.png">
 	<img loading="lazy" src="magearna-original.png" alt="magearna-original.png" title="magearna-original.png" />
 	<figcaption><a href="magearna-original.png">magearna-original</a></figcaption>
+</figure>
+<figure id="magearna-originalmega.png">
+	<img loading="lazy" src="magearna-originalmega.png" alt="magearna-originalmega.png" title="magearna-originalmega.png" />
+	<figcaption><a href="magearna-originalmega.png">magearna-originalmega</a></figcaption>
 </figure>
 <figure id="magearna.png">
 	<img loading="lazy" src="magearna.png" alt="magearna.png" title="magearna.png" />
@@ -4278,6 +4438,10 @@
 <figure id="malaconda.png">
 	<img loading="lazy" src="malaconda.png" alt="malaconda.png" title="malaconda.png" />
 	<figcaption><a href="malaconda.png">malaconda</a></figcaption>
+</figure>
+<figure id="malamar-mega.png">
+	<img loading="lazy" src="malamar-mega.png" alt="malamar-mega.png" title="malamar-mega.png" />
+	<figcaption><a href="malamar-mega.png">malamar-mega</a></figcaption>
 </figure>
 <figure id="malamar.png">
 	<img loading="lazy" src="malamar.png" alt="malamar.png" title="malamar.png" />
@@ -4407,6 +4571,10 @@
 	<img loading="lazy" src="meganium-f.png" alt="meganium-f.png" title="meganium-f.png" />
 	<figcaption><a href="meganium-f.png">meganium-f</a></figcaption>
 </figure>
+<figure id="meganium-mega.png">
+	<img loading="lazy" src="meganium-mega.png" alt="meganium-mega.png" title="meganium-mega.png" />
+	<figcaption><a href="meganium-mega.png">meganium-mega</a></figcaption>
+</figure>
 <figure id="meganium-old.png">
 	<img loading="lazy" src="meganium-old.png" alt="meganium-old.png" title="meganium-old.png" />
 	<figcaption><a href="meganium-old.png">meganium-old</a></figcaption>
@@ -4442,6 +4610,14 @@
 <figure id="meowstic-f.png">
 	<img loading="lazy" src="meowstic-f.png" alt="meowstic-f.png" title="meowstic-f.png" />
 	<figcaption><a href="meowstic-f.png">meowstic-f</a></figcaption>
+</figure>
+<figure id="meowstic-fmega.png">
+	<img loading="lazy" src="meowstic-fmega.png" alt="meowstic-fmega.png" title="meowstic-fmega.png" />
+	<figcaption><a href="meowstic-fmega.png">meowstic-fmega</a></figcaption>
+</figure>
+<figure id="meowstic-mmega.png">
+	<img loading="lazy" src="meowstic-mmega.png" alt="meowstic-mmega.png" title="meowstic-mmega.png" />
+	<figcaption><a href="meowstic-mmega.png">meowstic-mmega</a></figcaption>
 </figure>
 <figure id="meowstic.png">
 	<img loading="lazy" src="meowstic.png" alt="meowstic.png" title="meowstic.png" />
@@ -5611,6 +5787,10 @@
 	<img loading="lazy" src="pyroar-f.png" alt="pyroar-f.png" title="pyroar-f.png" />
 	<figcaption><a href="pyroar-f.png">pyroar-f</a></figcaption>
 </figure>
+<figure id="pyroar-mega.png">
+	<img loading="lazy" src="pyroar-mega.png" alt="pyroar-mega.png" title="pyroar-mega.png" />
+	<figcaption><a href="pyroar-mega.png">pyroar-mega</a></figcaption>
+</figure>
 <figure id="pyroar.png">
 	<img loading="lazy" src="pyroar.png" alt="pyroar.png" title="pyroar.png" />
 	<figcaption><a href="pyroar.png">pyroar</a></figcaption>
@@ -5683,6 +5863,14 @@
 	<img loading="lazy" src="raichu-f.png" alt="raichu-f.png" title="raichu-f.png" />
 	<figcaption><a href="raichu-f.png">raichu-f</a></figcaption>
 </figure>
+<figure id="raichu-megax.png">
+	<img loading="lazy" src="raichu-megax.png" alt="raichu-megax.png" title="raichu-megax.png" />
+	<figcaption><a href="raichu-megax.png">raichu-megax</a></figcaption>
+</figure>
+<figure id="raichu-megay.png">
+	<img loading="lazy" src="raichu-megay.png" alt="raichu-megay.png" title="raichu-megay.png" />
+	<figcaption><a href="raichu-megay.png">raichu-megay</a></figcaption>
+</figure>
 <figure id="raichu.png">
 	<img loading="lazy" src="raichu.png" alt="raichu.png" title="raichu.png" />
 	<figcaption><a href="raichu.png">raichu</a></figcaption>
@@ -5698,6 +5886,14 @@
 <figure id="ralts.png">
 	<img loading="lazy" src="ralts.png" alt="ralts.png" title="ralts.png" />
 	<figcaption><a href="ralts.png">ralts</a></figcaption>
+</figure>
+<figure id="ramnarok-radiant.png">
+	<img loading="lazy" src="ramnarok-radiant.png" alt="ramnarok-radiant.png" title="ramnarok-radiant.png" />
+	<figcaption><a href="ramnarok-radiant.png">ramnarok-radiant</a></figcaption>
+</figure>
+<figure id="ramnarok.png">
+	<img loading="lazy" src="ramnarok.png" alt="ramnarok.png" title="ramnarok.png" />
+	<figcaption><a href="ramnarok.png">ramnarok</a></figcaption>
 </figure>
 <figure id="rampardos.png">
 	<img loading="lazy" src="rampardos.png" alt="rampardos.png" title="rampardos.png" />
@@ -5979,6 +6175,10 @@
 	<img loading="lazy" src="salandit.png" alt="salandit.png" title="salandit.png" />
 	<figcaption><a href="salandit.png">salandit</a></figcaption>
 </figure>
+<figure id="salazzle-old.png">
+	<img loading="lazy" src="salazzle-old.png" alt="salazzle-old.png" title="salazzle-old.png" />
+	<figcaption><a href="salazzle-old.png">salazzle-old</a></figcaption>
+</figure>
 <figure id="salazzle.png">
 	<img loading="lazy" src="salazzle.png" alt="salazzle.png" title="salazzle.png" />
 	<figcaption><a href="salazzle.png">salazzle</a></figcaption>
@@ -6111,6 +6311,10 @@
 	<img loading="lazy" src="scizor.png" alt="scizor.png" title="scizor.png" />
 	<figcaption><a href="scizor.png">scizor</a></figcaption>
 </figure>
+<figure id="scolipede-mega.png">
+	<img loading="lazy" src="scolipede-mega.png" alt="scolipede-mega.png" title="scolipede-mega.png" />
+	<figcaption><a href="scolipede-mega.png">scolipede-mega</a></figcaption>
+</figure>
 <figure id="scolipede-old.png">
 	<img loading="lazy" src="scolipede-old.png" alt="scolipede-old.png" title="scolipede-old.png" />
 	<figcaption><a href="scolipede-old.png">scolipede-old</a></figcaption>
@@ -6123,9 +6327,17 @@
 	<img loading="lazy" src="scorbunny.png" alt="scorbunny.png" title="scorbunny.png" />
 	<figcaption><a href="scorbunny.png">scorbunny</a></figcaption>
 </figure>
+<figure id="scovillain-mega.png">
+	<img loading="lazy" src="scovillain-mega.png" alt="scovillain-mega.png" title="scovillain-mega.png" />
+	<figcaption><a href="scovillain-mega.png">scovillain-mega</a></figcaption>
+</figure>
 <figure id="scovillain.png">
 	<img loading="lazy" src="scovillain.png" alt="scovillain.png" title="scovillain.png" />
 	<figcaption><a href="scovillain.png">scovillain</a></figcaption>
+</figure>
+<figure id="scrafty-mega.png">
+	<img loading="lazy" src="scrafty-mega.png" alt="scrafty-mega.png" title="scrafty-mega.png" />
+	<figcaption><a href="scrafty-mega.png">scrafty-mega</a></figcaption>
 </figure>
 <figure id="scrafty.png">
 	<img loading="lazy" src="scrafty.png" alt="scrafty.png" title="scrafty.png" />
@@ -6431,6 +6643,10 @@
 	<img loading="lazy" src="sizzlipede.png" alt="sizzlipede.png" title="sizzlipede.png" />
 	<figcaption><a href="sizzlipede.png">sizzlipede</a></figcaption>
 </figure>
+<figure id="skarmory-mega.png">
+	<img loading="lazy" src="skarmory-mega.png" alt="skarmory-mega.png" title="skarmory-mega.png" />
+	<figcaption><a href="skarmory-mega.png">skarmory-mega</a></figcaption>
+</figure>
 <figure id="skarmory.png">
 	<img loading="lazy" src="skarmory.png" alt="skarmory.png" title="skarmory.png" />
 	<figcaption><a href="skarmory.png">skarmory</a></figcaption>
@@ -6735,6 +6951,10 @@
 	<img loading="lazy" src="staraptor-f.png" alt="staraptor-f.png" title="staraptor-f.png" />
 	<figcaption><a href="staraptor-f.png">staraptor-f</a></figcaption>
 </figure>
+<figure id="staraptor-mega.png">
+	<img loading="lazy" src="staraptor-mega.png" alt="staraptor-mega.png" title="staraptor-mega.png" />
+	<figcaption><a href="staraptor-mega.png">staraptor-mega</a></figcaption>
+</figure>
 <figure id="staraptor.png">
 	<img loading="lazy" src="staraptor.png" alt="staraptor.png" title="staraptor.png" />
 	<figcaption><a href="staraptor.png">staraptor</a></figcaption>
@@ -6754,6 +6974,10 @@
 <figure id="starly.png">
 	<img loading="lazy" src="starly.png" alt="starly.png" title="starly.png" />
 	<figcaption><a href="starly.png">starly</a></figcaption>
+</figure>
+<figure id="starmie-mega.png">
+	<img loading="lazy" src="starmie-mega.png" alt="starmie-mega.png" title="starmie-mega.png" />
+	<figcaption><a href="starmie-mega.png">starmie-mega</a></figcaption>
 </figure>
 <figure id="starmie-old.png">
 	<img loading="lazy" src="starmie-old.png" alt="starmie-old.png" title="starmie-old.png" />
@@ -7003,13 +7227,25 @@
 	<img loading="lazy" src="tarountula.png" alt="tarountula.png" title="tarountula.png" />
 	<figcaption><a href="tarountula.png">tarountula</a></figcaption>
 </figure>
+<figure id="tatsugiri-curlymega.png">
+	<img loading="lazy" src="tatsugiri-curlymega.png" alt="tatsugiri-curlymega.png" title="tatsugiri-curlymega.png" />
+	<figcaption><a href="tatsugiri-curlymega.png">tatsugiri-curlymega</a></figcaption>
+</figure>
 <figure id="tatsugiri-droopy.png">
 	<img loading="lazy" src="tatsugiri-droopy.png" alt="tatsugiri-droopy.png" title="tatsugiri-droopy.png" />
 	<figcaption><a href="tatsugiri-droopy.png">tatsugiri-droopy</a></figcaption>
 </figure>
+<figure id="tatsugiri-droopymega.png">
+	<img loading="lazy" src="tatsugiri-droopymega.png" alt="tatsugiri-droopymega.png" title="tatsugiri-droopymega.png" />
+	<figcaption><a href="tatsugiri-droopymega.png">tatsugiri-droopymega</a></figcaption>
+</figure>
 <figure id="tatsugiri-stretchy.png">
 	<img loading="lazy" src="tatsugiri-stretchy.png" alt="tatsugiri-stretchy.png" title="tatsugiri-stretchy.png" />
 	<figcaption><a href="tatsugiri-stretchy.png">tatsugiri-stretchy</a></figcaption>
+</figure>
+<figure id="tatsugiri-stretchymega.png">
+	<img loading="lazy" src="tatsugiri-stretchymega.png" alt="tatsugiri-stretchymega.png" title="tatsugiri-stretchymega.png" />
+	<figcaption><a href="tatsugiri-stretchymega.png">tatsugiri-stretchymega</a></figcaption>
 </figure>
 <figure id="tatsugiri.png">
 	<img loading="lazy" src="tatsugiri.png" alt="tatsugiri.png" title="tatsugiri.png" />
@@ -7319,6 +7555,10 @@
 	<img loading="lazy" src="typhlosion.png" alt="typhlosion.png" title="typhlosion.png" />
 	<figcaption><a href="typhlosion.png">typhlosion</a></figcaption>
 </figure>
+<figure id="tyranitar-mega-old.png">
+	<img loading="lazy" src="tyranitar-mega-old.png" alt="tyranitar-mega-old.png" title="tyranitar-mega-old.png" />
+	<figcaption><a href="tyranitar-mega-old.png">tyranitar-mega-old</a></figcaption>
+</figure>
 <figure id="tyranitar-mega.png">
 	<img loading="lazy" src="tyranitar-mega.png" alt="tyranitar-mega.png" title="tyranitar-mega.png" />
 	<figcaption><a href="tyranitar-mega.png">tyranitar-mega</a></figcaption>
@@ -7590,6 +7830,10 @@
 <figure id="victini.png">
 	<img loading="lazy" src="victini.png" alt="victini.png" title="victini.png" />
 	<figcaption><a href="victini.png">victini</a></figcaption>
+</figure>
+<figure id="victreebel-mega.png">
+	<img loading="lazy" src="victreebel-mega.png" alt="victreebel-mega.png" title="victreebel-mega.png" />
+	<figcaption><a href="victreebel-mega.png">victreebel-mega</a></figcaption>
 </figure>
 <figure id="victreebel.png">
 	<img loading="lazy" src="victreebel.png" alt="victreebel.png" title="victreebel.png" />
@@ -8035,6 +8279,10 @@
 	<img loading="lazy" src="zekrom.png" alt="zekrom.png" title="zekrom.png" />
 	<figcaption><a href="zekrom.png">zekrom</a></figcaption>
 </figure>
+<figure id="zeraora-mega.png">
+	<img loading="lazy" src="zeraora-mega.png" alt="zeraora-mega.png" title="zeraora-mega.png" />
+	<figcaption><a href="zeraora-mega.png">zeraora-mega</a></figcaption>
+</figure>
 <figure id="zeraora.png">
 	<img loading="lazy" src="zeraora.png" alt="zeraora.png" title="zeraora.png" />
 	<figcaption><a href="zeraora.png">zeraora</a></figcaption>
@@ -8090,6 +8338,10 @@
 <figure id="zygarde-complete.png">
 	<img loading="lazy" src="zygarde-complete.png" alt="zygarde-complete.png" title="zygarde-complete.png" />
 	<figcaption><a href="zygarde-complete.png">zygarde-complete</a></figcaption>
+</figure>
+<figure id="zygarde-mega.png">
+	<img loading="lazy" src="zygarde-mega.png" alt="zygarde-mega.png" title="zygarde-mega.png" />
+	<figcaption><a href="zygarde-mega.png">zygarde-mega</a></figcaption>
 </figure>
 <figure id="zygarde.png">
 	<img loading="lazy" src="zygarde.png" alt="zygarde.png" title="zygarde.png" />
